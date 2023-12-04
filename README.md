@@ -9,7 +9,13 @@
 
 - 💬 Ask me about **AI/ML, chatbot, AI Image Processing, AI model, LLM, Computer Vision, NLP, Qubit, Trading**
 
-- 📫 How to reach me `mildred54schroeder1sk@outlook.com`,  `https://www.linkedin.com/in/lishchuk-vitalii-7013912a3/`, `live:.cid.d627df95f54cf605`
+- 📫 How to reach me
+  
+  Mail : mildred54schroeder1sk@outlook.com
+  
+  Linkedin : https://www.linkedin.com/in/lishchuk-vitalii-7013912a3
+  
+  Skype : live:.cid.d627df95f54cf605
 
 - ⚡ Fun fact **I like Robot football game, General v2.0.**
 
